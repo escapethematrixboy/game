@@ -1,0 +1,74 @@
+{
+  "points": 38,
+  "totalPointsEarned": 138,
+  "clickPower": 1,
+  "buildings": [
+    {
+      "name": "Cursor",
+      "count": 0,
+      "baseCost": 15,
+      "baseProduction": 0.1,
+      "upgrades": [
+        {
+          "name": "Faster Clicking",
+          "purchased": true,
+          "cost": 100,
+          "productionMultiplier": 2,
+          "description": "Double the production of Cursors"
+        },
+        {
+          "name": "Auto Clicker",
+          "purchased": false,
+          "cost": 500,
+          "productionMultiplier": 3,
+          "description": "Triple the production of Cursors"
+        }
+      ]
+    },
+    {
+      "name": "Farm",
+      "count": 0,
+      "baseCost": 100,
+      "baseProduction": 1,
+      "upgrades": [
+        {
+          "name": "Fertilizer",
+          "purchased": false,
+          "cost": 1000,
+          "productionMultiplier": 2,
+          "description": "Double the production of Farms"
+        },
+        {
+          "name": "Irrigation",
+          "purchased": false,
+          "cost": 5000,
+          "productionMultiplier": 3,
+          "description": "Triple the production of Farms"
+        }
+      ]
+    },
+    {
+      "name": "Factory",
+      "count": 0,
+      "baseCost": 1100,
+      "baseProduction": 8,
+      "upgrades": [
+        {
+          "name": "Assembly Line",
+          "purchased": false,
+          "cost": 12000,
+          "productionMultiplier": 2,
+          "description": "Double the production of Factories"
+        },
+        {
+          "name": "Automation",
+          "purchased": false,
+          "cost": 60000,
+          "productionMultiplier": 3,
+          "description": "Triple the production of Factories"
+        }
+      ]
+    }
+  ],
+  "lastSaved": 1742286091227
+}
